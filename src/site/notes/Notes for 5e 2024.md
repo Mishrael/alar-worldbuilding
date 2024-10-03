@@ -41,3 +41,6 @@ This also applies to many celestials as well, though much rarer. Angels, referri
 
 #### What's it mean tho?
 So what this means is that there's no distinction between devils and demons, what affects one will affect the other. Infernal or Abyssal? more like dialects than wholly separate languages. Species heritage? more of a regional difference than being from wholly separate planes.
+
+#### Dragons
+Also, dragons are considered myth. There are hint and tales of them, for instance I'm not going to take your pseudodragon familiar away, but they are quite largely considered mythical. The only dragons to really be acknowledged as real are Avanthal and/or Vrakhara, and then only by their followers. Even so, though, Avanthal is considered more of a cosmic being of light or spirit -- depending on the priest/cleric/paladin, and Vrakhara, is still considered a demon. 
