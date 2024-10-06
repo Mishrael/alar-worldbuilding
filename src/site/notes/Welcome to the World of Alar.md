@@ -4,7 +4,7 @@
 
 Alar is a large sprawling world that has a feel of ancient wonders around every corner, juxtaposed with the newness of rediscovery. For 200 years, the peoples of Alar have been reclaiming their past, while forging into the future -- in their own ways. 
 
-## [!Note]+ Directory
+## Directory
 
 ### [[Setting Intro\|Setting Intro]]
 
