@@ -28,7 +28,7 @@ Gnomish
 Ionian
 Imperium
 ## J
-Jirian
+[[Cultures/Jirian/Jirian Culture\|Jirian]]
 ## K
 
 ## L
