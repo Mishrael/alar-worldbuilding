@@ -6,7 +6,11 @@ Alar is a large sprawling world that has a feel of ancient wonders around every 
 
 ## Directory
 
-### [[Setting Intro\|Setting Intro]]
+### [[Intro Stuff/Setting Intro\|Setting Intro]]
 
-### [[Notes for 5e 2024\|Notes for 5e 2024]]
+### [[Intro Stuff/Notes for 5e 2024\|Notes for 5e 2024]]
+
+### [[Deities/Deities\|Deities]]
+
+### [[Cultures/Cultures of Alar\|Cultures of Alar]]
 
