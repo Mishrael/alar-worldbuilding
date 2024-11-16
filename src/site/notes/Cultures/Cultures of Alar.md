@@ -7,7 +7,7 @@
 # Cultures of Alar
 
 ## A
-[[Anbaerenin\|Anbaerenin]] 
+[[Cultures/Anbaerenin/Anbaerenin\|Anbaerenin]] 
 ## B
 
 ## C
