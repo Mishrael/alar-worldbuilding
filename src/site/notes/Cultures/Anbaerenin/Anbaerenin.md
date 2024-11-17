@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cultures/anbaerenin/anbaerenin/"}
 ---
 
-[[Welcome to the World of Alar\|Home]] | [[Cultures/Cultures of Alar\|Cultures of Alar]] | [[Arcanum\|The Arcanum]]
+[[Welcome to the World of Alar\|Home]] | [[Cultures/Cultures of Alar\|Cultures of Alar]] | [[Cultures/Anbaerenin/Arcanum\|The Arcanum]]
 
 # Anbaerin, The Birthplace of Magic
 Anbaerin is an ancient marvel. A city so large that it takes nearly the entire day to cross on foot, without the crowds, and not accounting for the other six tiers, but is also so magical that trains of stone carts can take you to most sections of the city within a fraction of the time! A city with impervious and immaculate white walls and nestled in the pass of a small coastal mountain range. A city with the largest harbor in Alar, to accommodate the vast volumes of trade that supports this monolith of metropolitanism. And, of course, the birthplace of The Arcane and home to the oldest school for The Arcane, The Arcanum. One could spend lifetimes in Anbaerin and barely leave their neighborhood. 
