@@ -16,3 +16,4 @@ Alar is a large sprawling world that has a feel of ancient wonders around every 
 
 ### [[Cultures/Cultures of Alar\|Cultures of Alar]]
 
+### [[Characters/Character Dossiers\|Character Dossiers]]
