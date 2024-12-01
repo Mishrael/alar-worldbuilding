@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/jirian/ank-jir/"}
+{"dg-publish":true,"permalink":"/cultures/jirian/ank-jir/","created":"2024-10-27T17:25:19.660-07:00","updated":"2024-11-30T22:05:33.177-08:00"}
 ---
 
+{{imageMaskEdge4,--offset:10%,--rotation:180
+  ![](https://i.imgur.com/5KkkHZb.png){position:absolute,height:90%}
+}}
 [[Welcome to the World of Alar\|Home]] | [[Cultures/Jirian/Jirian Culture\|Jirian Culture]] 
+
 # The Jewel of the Desert
 #### Pronunciation: /ahnk.JEER/
 Ank'Jir is both the birthplace of Jirian culture and the capitol of the Jirian trading empire. Technically, the boundaries for the city are the boundaries of the nation -- making it a city-state -- but Ank'Sah, Tan'Rul, Tan'Val, and Tan'Mar are all, also, considered part of the Jirian state. There is speculation over the existence of a third city-state, Ank'Zor, which is fabled to be the home of The Sorcerer, and the secret manufacturing hub of Airships. There seems to be little to no evidence of its existence, though it's existence has never been formally denied by the Khazimiri, and The Sorcerer, himself, has remarked on occasion, when asked about the existence of Ank'Zor, why he would put so much energy and time into Ank'Jir if he had his own city to oversee?
