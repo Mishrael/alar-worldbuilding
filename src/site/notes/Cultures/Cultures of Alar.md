@@ -23,7 +23,7 @@ Commonwealth of Brothers
 Ga'Duur
 Gnomish
 ## H
-
+Halfling
 ## I
 Ionian
 Imperium
