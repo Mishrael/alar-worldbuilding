@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-1/"}
+{"dg-publish":true,"permalink":"/sessions/session-1/","created":"2024-11-15T17:09:08.970-08:00","updated":"2024-11-17T12:16:52.000-08:00"}
 ---
 
 [[Welcome to the World of Alar\|Home]] | [[Sessions/Sessions\|Sessions]] 

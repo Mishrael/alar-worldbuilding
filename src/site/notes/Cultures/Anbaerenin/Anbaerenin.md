@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/anbaerenin/anbaerenin/"}
+{"dg-publish":true,"permalink":"/cultures/anbaerenin/anbaerenin/","created":"2024-11-13T08:18:45.723-08:00","updated":"2024-11-15T16:57:04.269-08:00"}
 ---
 
 [[Welcome to the World of Alar\|Home]] | [[Cultures/Cultures of Alar\|Cultures of Alar]] | [[Cultures/Anbaerenin/Arcanum\|The Arcanum]]

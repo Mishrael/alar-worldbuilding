@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities/septur/"}
+{"dg-publish":true,"permalink":"/deities/septur/","created":"2024-11-11T20:32:29.073-08:00","updated":"2024-11-12T09:22:30.000-08:00"}
 ---
 
 [[Deities/Deities\|Deities]]
