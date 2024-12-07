@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/characters/p-cs/duke/","created":"2024-11-22T21:31:10.637-08:00","updated":"2024-12-07T09:39:05.574-08:00"}
+---
+
+
+# Duke Morlan, Human Fighter
+I was quarter master for the crew of The Dowfang, a pirate vessel that ports in Blackrock Isle, past the Barrier Islands. The Dowfang is an elite interceptor with a larger cargo hold than most. The vessel still roams the Dunwitch Sea, just without me. Captained by the brilliant naval taction, Lugo Armon, it strikes fear in the hearts of any who are unfortunate enough to cross it's path. After sacking a prize fairly close to home, we discovered that we had a tail. Having the wind of us, outrunning her was going to be tough. First Mate Archie Dyson felt the need to blame our jeopardy me. Claiming that if I would have performed better duties as quarter master, and procured better leads of prizes, we wouldn't be running for our lives. He used the opportunity to vote me out of my QM postion. Shortly after, shots from the pursuing ship ran out, tracer cannons, raking us bow to stern, killing one and injuring three. I was ordered to the cannons for a return salvo. We fired six of our cannons landing two hits on there port side and a miracle shot that took out their main mast. After we lost our tail, Archie took me to the crew essentially blaming the death and injuries on me. He called for me execution. Captain Armon stepped in and asserted that given the circumstances my life should not be taken. Instead, I was marooned on a desert island, with one shot in my pistol. 
