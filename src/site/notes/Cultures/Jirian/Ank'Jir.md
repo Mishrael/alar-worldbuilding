@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/jirian/ank-jir/","created":"2024-10-30T18:45:49.506-07:00","updated":"2024-11-30T22:11:44.000-08:00"}
+{"dg-publish":true,"permalink":"/cultures/jirian/ank-jir/","created":"2024-10-30T18:45:49.506-07:00","updated":"2025-01-04T15:31:50.083-08:00"}
 ---
 
-
+![Ank'Jir.png|banner](/img/user/Ank'Jir.png)
 [[Welcome to the World of Alar\|Home]] | [[Cultures/Jirian/Jirian Culture\|Jirian Culture]] 
 
 # The Jewel of the Desert
