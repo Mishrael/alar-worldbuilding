@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/jirian/ank-jir/","created":"2024-10-30T18:45:49.506-07:00","updated":"2025-01-04T15:44:31.698-08:00"}
+{"dg-publish":true,"permalink":"/cultures/jirian/ank-jir/","created":"2024-10-30T18:45:49.506-07:00","updated":"2025-01-04T15:45:40.019-08:00"}
 ---
 
 ![Ank'Jir.png|banner](/img/user/Ank'Jir.png)
@@ -14,6 +14,7 @@ Ank'Jir is both the birthplace of Jirian culture and the capitol of the Jirian t
 > Ank'Jir has many names, and many of those names consist of it being the jewel of something, which is not all that inspired, but Ank'Jir is truly an oasis that sits on the banks of the Jiraak river, one of the largest and longest rivers in the world, and not to be outdone by Alar's natural wonders, Ank'Jir is a marvel unto itself. The city is enormous and gleams in the coastal desert light with is alabaster buildings, crystalline towers and domes, all draped in fabrics of purples, blues, reds, and virtually every color under the sun! The entire city is rumored to have been wrought by powerful magics spun by The Sorcerer, himself, but there is still a fair bit of labor that goes into the city's construction. However, the glass is definitely a arcane wrought, and Ank'Jir is home to some of the finest glassworks, both magical and mundane, in the world! 
 > 
 > The city itself is a sprawling metropolis interlaced in a mesh of canals. Buildings rarely surpass two stories, aside from the Forum of Guilds, the Temple of Taraim, Sahiradim, also called the Enchanter's Guild, and the palaces of the Thirteen. Ank'Jir is a wealthy city, renown for it's opulence, gold and marble are used liberally in the city, though brass and bronze are by far more common accents. 
+
 > [!example]- City of Bazaars
 > Ank'Jir was raised up on trade, and trade is its lifeblood. As such, open air markets perpetually crowd streets and alleys. Dedicated spaces for shopfronts, restaurants, and just about anything that you could possibly pay for. From the exotic to the drab and familiar you can find it in Ank'Jir. 
 
