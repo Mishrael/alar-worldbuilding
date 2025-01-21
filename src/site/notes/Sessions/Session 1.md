@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-1/","created":"2024-11-15T17:09:08.970-08:00","updated":"2024-11-17T12:16:52.000-08:00"}
+{"dg-publish":true,"permalink":"/sessions/session-1/","created":"2024-11-15T17:09:08.970-08:00","updated":"2025-01-20T20:19:59.996-08:00"}
 ---
 
-[[Welcome to the World of Alar\|Home]] | [[Sessions/Sessions\|Sessions]] 
 
 # Recap
 Cat meets frogified Cobb. Cobb meets Aerith. They take a voyage over to White Harbor in Valla, Aeirth meets new gods (who dis?). Aerith, Cobb, and Cat take passage on an Athanaue vessel named Tiedvenar, captained by Veyra Serran. After several weeks, close to about three days from Anbaerin, the Tiedvenar stumbles upon Duke, saving him from a gruesome death at sea. 
