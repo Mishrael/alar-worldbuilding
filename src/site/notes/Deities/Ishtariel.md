@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/deities/ishtariel/","created":"2024-11-13T08:18:45.615-08:00","updated":"2024-11-14T17:20:10.000-08:00"}
+{"dg-publish":true,"permalink":"/deities/ishtariel/","created":"2024-11-13T08:18:45.615-08:00","updated":"2025-01-20T20:20:55.148-08:00"}
 ---
 
-[[Deities/Deities\|Deities]]
+
 # Ishtariel, Goddess of the Moons
 Ishtariel, Patron goddess of the seas, the moons, and nature is the creator god of the Verrans. According to Verran matriarchs, Ishtariel was spun from chaos to bring order to it. She's the couterbalance of the cosmos, where the sun shines, the moons glow, the chaos of the sea balanced by the order of the earth. 
 

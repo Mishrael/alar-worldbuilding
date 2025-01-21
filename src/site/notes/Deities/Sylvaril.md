@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/deities/sylvaril/","created":"2024-11-13T08:18:45.596-08:00","updated":"2024-11-12T09:45:54.000-08:00"}
+{"dg-publish":true,"permalink":"/deities/sylvaril/","created":"2024-11-13T08:18:45.596-08:00","updated":"2025-01-20T20:21:06.785-08:00"}
 ---
 
-[[Deities/Deities\|Deities]]
+
 # Sylvaril, God of the Hunt
 
 
