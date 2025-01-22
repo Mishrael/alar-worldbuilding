@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/anbaerenin/anbaerenin/","created":"2024-11-13T08:18:45.723-08:00","updated":"2025-01-20T20:21:23.132-08:00"}
+{"dg-publish":true,"permalink":"/cultures/anbaerenin/anbaerenin/","created":"2024-11-12T16:07:31.777-08:00","updated":"2025-01-20T20:21:23.000-08:00"}
 ---
 
 

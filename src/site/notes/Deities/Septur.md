@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities/septur/","created":"2024-11-11T20:32:29.073-08:00","updated":"2025-01-20T20:21:00.659-08:00"}
+{"dg-publish":true,"permalink":"/deities/septur/","created":"2024-11-12T08:11:08.844-08:00","updated":"2025-01-20T20:21:00.000-08:00"}
 ---
 
 

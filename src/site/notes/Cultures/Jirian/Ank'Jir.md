@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/jirian/ank-jir/","created":"2024-10-30T18:45:49.506-07:00","updated":"2025-01-20T20:21:37.013-08:00"}
+{"dg-publish":true,"permalink":"/cultures/jirian/ank-jir/","created":"2024-10-27T17:25:19.660-07:00","updated":"2025-01-20T20:21:37.000-08:00"}
 ---
 
 ![Ank'Jir.png|banner](/img/user/Ank'Jir.png)

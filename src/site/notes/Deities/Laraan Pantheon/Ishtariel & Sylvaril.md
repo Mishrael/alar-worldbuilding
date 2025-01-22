@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities/laraan-pantheon/ishtariel-and-sylvaril/","created":"2024-11-13T08:18:45.622-08:00","updated":"2025-01-20T20:21:11.309-08:00"}
+{"dg-publish":true,"permalink":"/deities/laraan-pantheon/ishtariel-and-sylvaril/","created":"2024-11-12T09:25:51.984-08:00","updated":"2025-01-20T20:21:11.000-08:00"}
 ---
 
 
