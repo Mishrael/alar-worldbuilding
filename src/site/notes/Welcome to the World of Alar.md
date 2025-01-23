@@ -1,43 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-the-world-of-alar/","tags":["Home","gardenEntry"],"created":"2024-09-07T16:27:13.298-07:00","updated":"2025-01-22T15:57:37.235-08:00"}
+{"dg-publish":true,"permalink":"/welcome-to-the-world-of-alar/","tags":["Home","gardenEntry"],"created":"2024-09-07T16:27:13.298-07:00","updated":"2025-01-22T16:09:07.246-08:00"}
 ---
 
 > [!warning]- WIP
 > Wiki is very much under construction. Sections to be added:
-> Cultures
-> 	Laraan
-> 		and all the various kingdoms associated
-> 	Ionian
-> 		Dwarven subcultures
-> 	 Elvish subcultures
-> 	 Matanese
-> 	 Gorman
-> 	 Gnomish
-> 	 Halfling Fiefs
-> Deities
-> 	Avanthal
-> 	Bronn
-> 	Modr
-> 	Tjur
-> 	Hedin
-> 	Llyssa
-> 	Opheliel
-> 	Ghaaz'Abdur
-> 	Myratz
-> 		Ssums
-> 		Sankimaat
-> 		Moach
-> 		Zamerd
+> > [!NOTE]- Cultures
+> > Laraan
+> > and all the various kingdoms associated
+> > Ionian
+> > Dwarven subcultures
+> > Elvish subcultures
+> > Matanese
+> > Gorman
+> > Gnomish
+> > Halfling Fiefs
+> 
+> > [!NOTE]- Deities
+> > Avanthal
+> > Bronn
+> >Modr
+> >Tjur
+> >Hedin
+> >Llyssa
+> >Opheliel
+> >Ghaaz'Abdur
+> >Myratz
+> >Ssums
+> >Sankimaat
+> >Moach
+> >Zamerd
+> 
 > Session 4 recap
-> Factions
-> 	Lorekeepers
-> 	Explorer's League
-> 	Ministry of Strength
-> 	Tower of Kar
-> 	Lightwing Academy
-> 	and more...
-> You get the idea; there's more to come.
-
+> 
+> > [!note]- Factions
+> > Lorekeepers
+> > Explorer's League
+> > Ministry of Strength
+> > Lightwing Academy
+> > Tower of Kar
+> > and much more...
 
 Alar is a large sprawling world that has a feel of ancient wonders around every corner, juxtaposed with the newness of rediscovery. For 200 years, the peoples of Alar have been reclaiming their past, while forging into the future -- in their own ways. 
 
