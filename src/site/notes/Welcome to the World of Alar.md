@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-the-world-of-alar/","tags":["Home","gardenEntry"],"created":"2024-09-07T16:27:13.298-07:00","updated":"2025-01-23T11:43:28.883-08:00"}
+{"dg-publish":true,"permalink":"/welcome-to-the-world-of-alar/","tags":["Home","gardenEntry","gardenEntry"],"created":"2024-09-07T16:27:13.298-07:00","updated":"2025-01-23T11:43:28.883-08:00"}
 ---
 
 
