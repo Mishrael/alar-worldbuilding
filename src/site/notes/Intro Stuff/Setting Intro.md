@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intro-stuff/setting-intro/","created":"2024-10-03T10:26:48.518-07:00","updated":"2024-10-05T21:07:16.000-07:00"}
+{"dg-publish":true,"permalink":"/intro-stuff/setting-intro/","created":"2024-10-02T20:25:46.247-07:00","updated":"2024-10-05T21:07:16.817-07:00"}
 ---
 
 

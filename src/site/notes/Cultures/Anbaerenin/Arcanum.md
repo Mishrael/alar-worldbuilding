@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/anbaerenin/arcanum/","created":"2024-11-16T10:13:11.611-08:00","updated":"2024-11-15T17:08:12.000-08:00"}
+{"dg-publish":true,"permalink":"/cultures/anbaerenin/arcanum/","created":"2024-11-15T16:44:44.113-08:00","updated":"2024-11-15T17:08:12.397-08:00"}
 ---
 
 

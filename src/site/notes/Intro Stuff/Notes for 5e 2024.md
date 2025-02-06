@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intro-stuff/notes-for-5e-2024/","created":"2024-09-14T16:15:20.481-07:00","updated":"2024-10-02T21:28:36.000-07:00"}
+{"dg-publish":true,"permalink":"/intro-stuff/notes-for-5e-2024/","created":"2024-09-16T20:29:04.463-07:00","updated":"2024-10-02T21:28:36.348-07:00"}
 ---
 
 ## Species

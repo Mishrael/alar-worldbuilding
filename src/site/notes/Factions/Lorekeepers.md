@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/lorekeepers/","created":"2024-11-16T10:13:11.751-08:00","updated":"2025-01-27T20:21:06.000-08:00"}
+{"dg-publish":true,"permalink":"/factions/lorekeepers/","created":"2024-11-15T17:41:13.848-08:00","updated":"2025-01-27T20:21:06.597-08:00"}
 ---
 
 
