@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities/ishtariel/","created":"2024-11-13T08:18:45.615-08:00","updated":"2025-01-20T20:20:55.148-08:00"}
+{"dg-publish":true,"permalink":"/deities/ishtariel/","created":"2024-11-13T08:18:45.615-08:00","updated":"2025-02-14T21:00:23.353-08:00"}
 ---
 
 
@@ -15,4 +15,4 @@ Ishtariel, Patron goddess of the seas, the moons, and nature is the creator god 
 
 4. **Protection of Women and Family Life**: Those dedicated to Ishtariel might hold a special duty to protect women and families, perhaps acting as midwives, caretakers, or community leaders who uphold values of kinship, unity, and support.
 
-#### See Also [[Deities/Laraan Pantheon/Ishtariel & Sylvaril\|Ishtariel & Sylvaril]]
+#### See Also [[Deities/Laraan Pantheon/Ishtariel & Sylvaril, One of Two\|Ishtariel & Sylvaril, One of Two]]

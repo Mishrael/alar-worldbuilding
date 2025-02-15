@@ -5,5 +5,5 @@
 
 # Brixta, Half-Elven Sorcerer
 
- ![Brixta_sans_pet.png](/img/user/Pictures/Brixta_sans_pet.png)
+ ![Brixta_sans_pet.png](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Brixta_sans_pet.png)
  
