@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/secretary-elise-danvess/","created":"2025-02-14T20:22:42.168-08:00","updated":"2025-02-28T21:45:40.750-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/secretary-elise-danvess/","created":"2025-02-14T20:22:42.168-08:00","updated":"2025-03-01T09:46:54.568-08:00"}
 ---
 
 
 
-![Elise Danvess3.webp|right|500](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Elise%20Danvess3.webp)
+![Elise Danvess3.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Elise%20Danvess3.webp)
 **Title:** Secretary of The Arcanum & Keeper of the Unbound Tome  
 **Race:** Human
 

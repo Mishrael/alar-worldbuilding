@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-arawn-valadin/","created":"2025-01-27T19:38:03.711-08:00","updated":"2025-02-28T21:51:52.566-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-arawn-valadin/","created":"2025-01-27T19:38:03.711-08:00","updated":"2025-03-01T09:46:08.792-08:00"}
 ---
 
-![Arawn Valadin.webp|right|500](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Arawn%20Valadin.webp)
+
 **Title:** Professor of Illusion & Alchemy  
 **Race:** Human 
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-syble-thornwood/","created":"2025-01-27T19:38:35.837-08:00","updated":"2025-02-28T21:56:09.036-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-syble-thornwood/","created":"2025-01-27T19:38:35.837-08:00","updated":"2025-03-01T09:46:43.936-08:00"}
 ---
 
-![Syble Thornwood1.webp|right|500](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Syble%20Thornwood1.webp)
+![Syble Thornwood1.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Syble%20Thornwood1.webp)
 **Title:** Professor of Transmutation & Theoretical Selfhood  
 **Race:** Human  
 
