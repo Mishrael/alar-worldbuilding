@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-garrik-lodczyk/","created":"2025-02-14T20:02:09.522-08:00","updated":"2025-03-04T18:15:07.065-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-garrik-lodczyk/","created":"2025-02-14T20:02:09.522-08:00","updated":"2025-03-04T18:32:33.151-08:00"}
 ---
 
 ![Garrik Lodczyk.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Garrik%20Lodczyk.webp)
@@ -9,7 +9,7 @@
 **Race:** Dwarf 
 
 **Overview:**  
-A grizzled but enthusiastic expert in **elemental magic**, Garrik Lódczyk is one of the leading scholars on how different elemental forces interact. He oversees the **Frost Vault**, a secured chamber where unstable elemental spells are tested. Despite his **Dwarven heritage**, he has little interest in traditional stonework and instead revels in understanding **fire, ice, air, and earth’s raw potential**. 
+A grizzled but enthusiastic expert in **elemental magic**, Garrik Lódczyk is one of the leading scholars on how different elemental forces interact. He oversees the **Spell Vault**, a secured chamber where unstable elemental spells are tested. Despite his **Dwarven heritage**, he has little interest in traditional stonework and instead revels in understanding **fire, ice, air, and earth’s raw potential**. 
 
 Professor Lódczyk works closely with the Explorer's League and the Lorekeepers in their exploration of Rükmar. 
 
