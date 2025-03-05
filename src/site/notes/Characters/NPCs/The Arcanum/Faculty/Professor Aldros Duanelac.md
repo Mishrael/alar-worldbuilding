@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-aldros-duanelac/","created":"2025-02-14T19:54:33.491-08:00","updated":"2025-02-28T22:03:46.115-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-aldros-duanelac/","created":"2025-02-14T19:54:33.491-08:00","updated":"2025-03-04T18:14:28.284-08:00"}
 ---
 
-### **Professor of High Evocation & Arcanic Defense**
-**Race:** Vassari  
+![Aldros Duanelac.png|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Aldros%20Duanelac.png)
+### **Professor of Evocation & Arcanic Defense**
+**Title:** Professor of Evocation & Arcanic Defense
+**Race:** Elf (Wood Elf)  
 
 **Overview:**  
 Aldros Duanelac is a towering presence at _The Arcanum_, both figuratively and literally. He is a master of **evocation magic**, particularly its applications in warfare, energy manipulation, and large-scale spellcraft. He once served as an _Arcane Tactician_ for the city’s defenses before returning to academia. 

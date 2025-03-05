@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-oswald-pelligrath/","created":"2025-02-14T20:44:32.019-08:00","updated":"2025-02-28T22:04:04.212-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-oswald-pelligrath/","created":"2025-02-14T20:44:32.019-08:00","updated":"2025-03-04T18:16:10.320-08:00"}
 ---
 
+![Oswald Pelligrath.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Oswald%20Pelligrath.webp)
 ### **Professor Oswald Pelligrath**
 
 **Title:** Professor of Arcane Engineering & Master of the Runic Forge  
