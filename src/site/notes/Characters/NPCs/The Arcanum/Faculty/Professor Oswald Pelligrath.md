@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-oswald-pelligrath/","created":"2025-02-14T20:44:32.019-08:00","updated":"2025-03-04T18:16:10.320-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-oswald-pelligrath/","created":"2025-02-14T20:44:32.019-08:00","updated":"2025-03-04T18:35:50.775-08:00"}
 ---
 
 ![Oswald Pelligrath.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Oswald%20Pelligrath.webp)
@@ -9,7 +9,7 @@
 **Race:** Gnome  
 
 **Overview:**  
-A **genius in magical innovation**, Oswin Pelligrath is responsible for many of _The Arcanum’s_ arcane inventions, from **self-correcting spellbooks** to **sentient floating lanterns**. He is a pioneer in **Runic Engineering**, blending spellcraft with mechanics to create new forms of magical technology. He runs the **Runic Forge**, where students build and refine arcane constructs.
+A **genius in magical innovation**, Oswald Pelligrath is responsible for many of _The Arcanum’s_ arcane inventions, from **self-correcting spellbooks** to **floating lanterns**. He is a pioneer in **Runic Engineering**, blending spellcraft with mechanics to create new forms of magical technology. He runs the **Runic Forge**, where students build and refine arcane constructs.
 
 **Teaching Style:**
 
@@ -19,6 +19,5 @@ A **genius in magical innovation**, Oswin Pelligrath is responsible for many of 
 
 **Personal Quirks:**
 
-- His **beard is full of small, self-animated gadgets**—tiny clocks, moving gears, even a miniature automaton that takes attendance.
 - Wears **spectacles with six interchangeable lenses**, flipping between them constantly.
 - Occasionally gets _so lost in thought_ that he forgets he’s **talking out loud** to himself.
