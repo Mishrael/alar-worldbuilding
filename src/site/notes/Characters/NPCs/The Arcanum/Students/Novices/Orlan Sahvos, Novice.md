@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/students/novices/orlan-sahvos-novice/","created":"2025-02-28T20:55:02.791-08:00","updated":"2025-02-28T21:13:48.634-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/students/novices/orlan-sahvos-novice/","created":"2025-02-28T20:55:02.791-08:00","updated":"2025-03-09T16:42:27.000-07:00"}
 ---
 
 
 **Race:** Human  
-**Class:** Wizard (Evocation)  
-**Alignment:** Lawful Neutral
+**Class:** Wizard (Evocation) 
 
 **Background & Personality:**  
 Orlan is **not reckless—but he is ambitious.** The son of a **spellwright**, he grew up in the workshops of magical artisans, where precision and responsibility were drilled into him from a young age.
