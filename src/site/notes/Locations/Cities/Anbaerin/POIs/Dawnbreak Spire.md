@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/locations/cities/anbaerin/po-is/dawnbreak-spire/","created":"2025-04-12T08:50:01.550-07:00","updated":"2025-04-15T16:02:29.726-07:00"}
+{"dg-publish":true,"permalink":"/locations/cities/anbaerin/po-is/dawnbreak-spire/","created":"2025-04-12T08:50:01.550-07:00","updated":"2025-04-15T16:03:56.597-07:00"}
 ---
 
 Stepping into the arcane illusion that stirs at the foot of the Dawnbreak Spire. The spellwork doesn’t just _show_ the beginning of the battle—it _immerses_ you in it. You don’t watch history here. You _walk among it._
 
 ---
 
-> [!important]- # The Battle of the Dawnbreak: First Light of Battle
+> [!important]-  The Battle of the Dawnbreak: First Light of Battle
 > 
 > _As experienced through the Memory of Light_
 > 
@@ -109,7 +109,7 @@ Stepping into the arcane illusion that stirs at the foot of the Dawnbreak Spire.
 > **Just the soft glow of the plaza, and the echo of a single triumphant chime.**
 
 
-> [!important]- # **The Battle of the Dawnbreak: The Hour of Ash and Glory**
+> [!important]- **The Battle of the Dawnbreak: The Hour of Ash and Glory**
 > 
 > _As experienced through the Memory of Light_
 > 
@@ -226,7 +226,7 @@ Stepping into the arcane illusion that stirs at the foot of the Dawnbreak Spire.
 > Just the silence of the cost.
 
 
-> [!important]- # **The Battle of the Dawnbreak: The Fall of Cruelty**
+> [!important]- **The Battle of the Dawnbreak: The Fall of Cruelty**
 > 
 > _As experienced through the Memory of Light_
 > 
