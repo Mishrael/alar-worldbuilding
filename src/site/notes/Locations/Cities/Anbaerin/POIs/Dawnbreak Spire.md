@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/cities/anbaerin/po-is/dawnbreak-spire/","created":"2025-04-12T08:50:01.550-07:00","updated":"2025-04-15T15:54:54.515-07:00"}
+{"dg-publish":true,"permalink":"/locations/cities/anbaerin/po-is/dawnbreak-spire/","created":"2025-04-12T08:50:01.550-07:00","updated":"2025-04-15T15:59:21.280-07:00"}
 ---
 
 Stepping into the arcane illusion that stirs at the foot of the Dawnbreak Spire. The spellwork doesn’t just _show_ the beginning of the battle—it _immerses_ you in it. You don’t watch history here. You _walk among it._
@@ -252,7 +252,7 @@ But her voice falls on deaf ears—the people no longer listen to her lies.
 
 ---
 
-### 👤 _Spectral Visage: First Mage Feldon Cyrwic_
+### _Spectral Visage: First Mage Feldon Cyrwic_
 
 _Human, First Student of The Arcane_
 
