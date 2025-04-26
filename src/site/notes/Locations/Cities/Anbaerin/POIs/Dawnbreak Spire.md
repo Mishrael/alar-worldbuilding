@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/cities/anbaerin/po-is/dawnbreak-spire/","created":"2025-04-12T08:50:01.550-07:00","updated":"2025-04-15T16:03:56.597-07:00"}
+{"dg-publish":true,"permalink":"/locations/cities/anbaerin/po-is/dawnbreak-spire/","created":"2025-04-12T09:26:47.963-07:00","updated":"2025-04-19T17:12:54.000-07:00"}
 ---
 
 Stepping into the arcane illusion that stirs at the foot of the Dawnbreak Spire. The spellwork doesn’t just _show_ the beginning of the battle—it _immerses_ you in it. You don’t watch history here. You _walk among it._
@@ -36,7 +36,7 @@ Stepping into the arcane illusion that stirs at the foot of the Dawnbreak Spire.
 > 
 > Amidst the mediations of the seven, a dim light begins to well within one of them, and then like a damn breaking, light erupts from him, and then a second, and a third, until all seven were like new stars. They stagger, eyes wide, pupils flashing with endless glyphs. A sound like every language spoken at once roars through the room, and then is gone.
 > 
-> > The **First Spell** is born.
+> > The First Spell is born.
 > 
 > Not a single spell. Not even a grimoire. A complete understanding of The Arcane. As if the world itself whispered its code into their bones. And above—The veil breaks.
 > 

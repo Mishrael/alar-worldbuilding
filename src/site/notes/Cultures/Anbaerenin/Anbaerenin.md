@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/anbaerenin/anbaerenin/","created":"2024-11-13T08:18:45.723-08:00","updated":"2025-01-20T20:21:23.132-08:00"}
+{"dg-publish":true,"permalink":"/cultures/anbaerenin/anbaerenin/","created":"2024-11-13T08:18:45.723-08:00","updated":"2025-04-26T08:55:01.479-07:00"}
 ---
 
 
@@ -8,6 +8,8 @@ Anbaerin is an ancient marvel. A city so large that it takes nearly the entire d
 
 # 1st Tier, The Halls of the Lords of Anbaer
 Many never set foot in the Palace, as the 1st tier is usually known, but many can see it's silvery towers and spires, like a crown on the city itself. The palace grounds span 1mi in diameter in the very center of the city and is Anbaerin's highest point, and is hemmed in by the 2nd Tier; separated by one of Anbaerin's three circular white walls. 
+
+Currently occupied by Lord Eldric Anbaer II and his Lady Elina Grajl-Anbaer. Both of whom exhibit much interest in humanitarian efforts throughout the city. Though, speculation suggests that the Good-Lady Grajl is the driving force behind such interests and efforts. 
 
 # 2nd Tier, High Town
 High Town sits on the Palace slopes, surrounding the palace in a concentric circle. High Town is about 6mi is diameter, minus 1mi diameter for the Palace. The 2nd tier is within the 3rd tier, separated by one the second of Anbaerin's high walls. The four Grand Lifts also start, or end, in Tier Two. 
