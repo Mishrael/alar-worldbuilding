@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/p-cs/aerith/","created":"2024-11-22T21:25:34.904-08:00","updated":"2024-12-07T09:38:44.297-08:00"}
+{"dg-publish":true,"permalink":"/characters/p-cs/aerith/","created":"2025-05-12T18:46:47.168-07:00","updated":"2024-12-07T09:38:44.000-08:00"}
 ---
 
 

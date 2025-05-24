@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/vallan/","created":"2025-01-27T20:01:21.370-08:00","updated":"2025-01-27T20:15:46.050-08:00"}
+{"dg-publish":true,"permalink":"/cultures/vallan/","created":"2025-05-12T18:45:31.217-07:00","updated":"2025-01-27T20:15:46.000-08:00"}
 ---
 
 # Vallan Subcultures

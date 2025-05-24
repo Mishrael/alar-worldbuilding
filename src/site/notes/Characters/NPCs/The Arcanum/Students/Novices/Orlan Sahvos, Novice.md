@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/students/novices/orlan-sahvos-novice/","created":"2025-02-28T20:55:02.791-08:00","updated":"2025-03-09T16:42:27.000-07:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/students/novices/orlan-sahvos-novice/","created":"2025-05-12T18:45:58.058-07:00","updated":"2025-03-09T16:42:27.000-07:00"}
 ---
 
 

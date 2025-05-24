@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-oswald-pelligrath/","created":"2025-02-14T20:44:32.019-08:00","updated":"2025-03-04T18:35:50.775-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-oswald-pelligrath/","created":"2025-05-12T18:46:09.657-07:00","updated":"2025-03-04T18:35:50.000-08:00"}
 ---
 
 ![Oswald Pelligrath.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Oswald%20Pelligrath.webp)

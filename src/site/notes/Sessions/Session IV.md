@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-iv/","created":"2025-01-20T12:09:30.303-08:00","updated":"2025-02-03T20:32:35.038-08:00"}
+{"dg-publish":true,"permalink":"/sessions/session-iv/","created":"2025-05-12T18:45:31.486-07:00","updated":"2025-02-03T20:32:35.000-08:00"}
 ---
 
 Welcome dear reader. Last we left off, our heroes were outside the suspect establishment of Dilly Dally's, this scrawled in paint as though a child had written it upon a length of canvas, which was then tied to two poles, haphazardly nailed to the front of a puppet show facade, with a person-sized door cut out of the middle, and a haphazardly nailed together set of boards that acted as the door, but was left fallen on the ground. Though we say 'person-sized', it should be noted that it was not so tall as to allow even the average mortal to pass through the door without stooping let alone Cat. 

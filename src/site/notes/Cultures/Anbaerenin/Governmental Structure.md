@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/anbaerenin/governmental-structure/","created":"2025-04-26T08:58:22.351-07:00","updated":"2025-04-26T09:19:56.333-07:00"}
+{"dg-publish":true,"permalink":"/cultures/anbaerenin/governmental-structure/","created":"2025-05-12T18:48:51.060-07:00","updated":"2025-04-26T09:19:56.000-07:00"}
 ---
 
 

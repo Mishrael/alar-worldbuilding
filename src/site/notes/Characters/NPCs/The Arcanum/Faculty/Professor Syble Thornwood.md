@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-syble-thornwood/","created":"2025-01-27T19:38:35.837-08:00","updated":"2025-03-01T09:46:43.936-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-syble-thornwood/","created":"2025-05-12T18:45:31.351-07:00","updated":"2025-03-01T09:46:43.000-08:00"}
 ---
 
 ![Syble Thornwood1.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Syble%20Thornwood1.webp)

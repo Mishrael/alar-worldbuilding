@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/p-cs/brixta/","created":"2025-01-27T19:44:10.311-08:00","updated":"2025-01-27T19:48:12.338-08:00"}
+{"dg-publish":true,"permalink":"/characters/p-cs/brixta/","created":"2025-05-12T18:45:31.298-07:00","updated":"2025-01-27T19:48:12.000-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/students/novices/liran-vesset-novice/","created":"2025-02-28T20:55:00.811-08:00","updated":"2025-02-28T21:13:46.222-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/students/novices/liran-vesset-novice/","created":"2025-05-12T18:45:42.696-07:00","updated":"2025-02-28T21:13:46.000-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-myrian-soldeva/","created":"2025-02-14T20:47:13.457-08:00","updated":"2025-03-04T18:34:27.404-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-myrian-soldeva/","created":"2025-05-12T18:46:09.642-07:00","updated":"2025-03-04T18:34:27.000-08:00"}
 ---
 
 ![Myrian Soldeva1.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Myrian%20Soldeva1.webp)

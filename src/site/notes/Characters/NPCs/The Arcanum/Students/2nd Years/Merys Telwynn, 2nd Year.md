@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/students/2nd-years/merys-telwynn-2nd-year/","created":"2025-02-28T20:52:35.258-08:00","updated":"2025-02-28T21:13:35.908-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/students/2nd-years/merys-telwynn-2nd-year/","created":"2025-05-12T18:45:58.104-07:00","updated":"2025-02-28T21:13:35.000-08:00"}
 ---
 
 **Race:** Half-Elf  

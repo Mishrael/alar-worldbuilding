@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities/ishtariel/","created":"2024-11-13T08:18:45.615-08:00","updated":"2025-02-14T21:00:23.353-08:00"}
+{"dg-publish":true,"permalink":"/deities/ishtariel/","created":"2025-05-12T18:46:46.943-07:00","updated":"2025-02-14T21:00:23.000-08:00"}
 ---
 
 

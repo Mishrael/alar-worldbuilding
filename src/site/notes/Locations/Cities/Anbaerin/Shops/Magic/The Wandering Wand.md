@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/cities/anbaerin/shops/magic/the-wandering-wand/","created":"2025-01-29T21:00:18.395-08:00","updated":"2025-01-29T21:05:49.291-08:00"}
+{"dg-publish":true,"permalink":"/locations/cities/anbaerin/shops/magic/the-wandering-wand/","created":"2025-05-12T18:46:09.542-07:00","updated":"2025-01-29T21:05:49.000-08:00"}
 ---
 
 ### **The Wandering Wand** _(Magic Shop & Enchanted Trinkets)_

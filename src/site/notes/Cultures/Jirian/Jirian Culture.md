@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/jirian/jirian-culture/","created":"2024-10-30T18:45:49.501-07:00","updated":"2025-01-20T20:21:52.067-08:00"}
+{"dg-publish":true,"permalink":"/cultures/jirian/jirian-culture/","created":"2025-05-12T18:46:47.070-07:00","updated":"2025-01-20T20:21:52.000-08:00"}
 ---
 
 
