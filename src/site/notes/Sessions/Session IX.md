@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/session-ix/","created":"2025-05-12T18:48:51.072-07:00","updated":"2025-05-24T16:19:40.118-07:00"}
+{"dg-publish":true,"permalink":"/sessions/session-ix/","created":"2025-04-25T21:36:20.831-07:00","updated":"2025-06-11T08:41:16.924-07:00"}
 ---
 
 We reconvene with our heroes, fresh on the heels of new of no small import to our friends with special significance to our esteemed Aerith, on a scene of a great garden sanctuary in the heart of Anbaerin. However, Aerith, Brixta, Cat, and Cobb, needn't have ventured very far. No with a mere five minute jaunt across that great courtyard of the divine in High Town, the four found themselves among the veritable wilds of the Harmonite's Sanctuary, Temple of Union to the god of two, Sylvaril and Ishtariel. 
@@ -29,9 +29,9 @@ Lastly, Brixta, having learned that offspring of gods might be possible, decides
 
 And with that all three of our worthies have had their Harmonite experiences, for better or for worse, and we shall leave which is which up to the interpretation of our perspicacious audience. Having had their experiences in the glade, however, they thought is high time to go an collect their most frog-like companion, which, we're sure our readers remember, Aerith guided them to, using her newfound boon from The Two. 
 
-Perhaps we should also say two words about Cobb's predicament, for they happen upon our dear frog as he is causing something of a scene. When last we left our frog companion, he was fighting for his life against what seemed like every crow, gull, and alley cat in the city. We have a variety of reports from across the third and second tier, of strange sightings a frog throwing fire and swarms of gulls. A demonspawn shaped like a frog that was ten feet tall and could swallow a man in one gulp. Guard reports of a dangerous animal with the ability to throw fire eluding capture. And a number of other escapades. However, it was that Cobb came to be embroiled in a standoff for his life between guards and swarm of seagulls, and one almost-lucky feline—whom we feel we must clarify that this was not Folion, but an neighbourhood cat— on the corner of Turnabout Front and Retreat, in the Third Tier, it is assured that he was indeed, fighting the fight of his froggish life.
+Perhaps we should also say two words about Cobb's predicament, for they happen upon our dear frog as he is causing something of a scene. When last we left our frog companion, he was fighting for his life against what seemed like every crow, gull, and alley cat in the city. We have a variety of reports from across the third and second tier, of strange sightings a frog throwing fire and swarms of gulls. A demonspawn shaped like a frog that was ten feet tall and could swallow a man in one gulp. Guard reports of a dangerous animal with the ability to throw fire eluding capture. And a number of other escapades. However, it was that Cobb came to be embroiled in a standoff for his life between guards and swarm of seagulls, and one almost-lucky feline—whom we feel we must clarify that this was not Folion, but an neighborhood cat— on the corner of Turnabout Front and Retreat, in the Third Tier, it is assured that he was indeed, fighting the fight of his froggish life.
 
-And this is the scene, repleat with cordoned off streets, and a company of guards to infiltrate and secure the dangerous creature, before he could start a fire, and gawking crowd, that our friends are reunited. 
+And with this scene, replete with cordoned off streets, and a company of guards to infiltrate and secure the dangerous creature before he could start a fire, and gawking crowd, that our friends are reunited. 
 
 
 
