@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities/laraan-pantheon/septur-the-illuminated/","created":"2025-05-12T18:46:46.975-07:00","updated":"2025-01-20T20:21:00.000-08:00"}
+{"dg-publish":true,"permalink":"/deities/laraan-pantheon/septur-the-illuminated/","created":"2026-01-11T21:05:07.992-08:00","updated":"2025-01-20T20:21:00.000-08:00"}
 ---
 
 

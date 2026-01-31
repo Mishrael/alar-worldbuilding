@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-aldros-duanelac/","created":"2025-05-12T18:46:09.610-07:00","updated":"2025-03-04T18:14:28.000-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-aldros-duanelac/","created":"2026-01-11T21:04:56.960-08:00","updated":"2025-03-04T18:14:28.000-08:00"}
 ---
 
 ![Aldros Duanelac.png|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Aldros%20Duanelac.png)

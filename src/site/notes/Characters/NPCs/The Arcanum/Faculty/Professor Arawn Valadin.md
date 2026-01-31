@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-arawn-valadin/","created":"2025-05-12T18:45:31.349-07:00","updated":"2025-03-03T16:43:47.000-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-arawn-valadin/","created":"2026-01-11T21:04:48.703-08:00","updated":"2025-03-03T16:43:47.000-08:00"}
 ---
 
 ![Arawn Valadin 1.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Arawn%20Valadin%201.webp)

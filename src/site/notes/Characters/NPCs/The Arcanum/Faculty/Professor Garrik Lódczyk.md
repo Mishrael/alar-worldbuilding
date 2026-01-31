@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-garrik-lodczyk/","created":"2025-05-12T18:46:09.642-07:00","updated":"2025-03-04T18:32:33.000-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-garrik-lodczyk/","created":"2026-01-11T21:04:56.968-08:00","updated":"2025-03-04T18:32:33.000-08:00"}
 ---
 
 ![Garrik Lodczyk.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Garrik%20Lodczyk.webp)

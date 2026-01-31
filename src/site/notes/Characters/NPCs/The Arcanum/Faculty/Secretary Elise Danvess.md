@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/secretary-elise-danvess/","created":"2025-05-12T18:46:09.626-07:00","updated":"2025-03-04T18:18:59.000-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/secretary-elise-danvess/","created":"2026-01-11T21:04:56.964-08:00","updated":"2025-03-04T18:18:59.000-08:00"}
 ---
 
 

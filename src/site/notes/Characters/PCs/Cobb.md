@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/p-cs/cobb/","created":"2025-05-12T18:46:47.195-07:00","updated":"2024-12-07T09:38:59.000-08:00"}
+{"dg-publish":true,"permalink":"/characters/p-cs/cobb/","created":"2026-01-11T21:05:08.069-08:00","updated":"2024-12-07T09:38:59.000-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/cities/anbaerin/po-is/dawnbreak-spire/","created":"2025-05-12T18:45:42.620-07:00","updated":"2025-04-19T17:12:54.000-07:00"}
+{"dg-publish":true,"permalink":"/locations/cities/anbaerin/po-is/dawnbreak-spire/","created":"2026-01-11T21:04:51.164-08:00","updated":"2025-04-19T17:12:54.000-07:00"}
 ---
 
 Stepping into the arcane illusion that stirs at the foot of the Dawnbreak Spire. The spellwork doesn’t just _show_ the beginning of the battle—it _immerses_ you in it. You don’t watch history here. You _walk among it._

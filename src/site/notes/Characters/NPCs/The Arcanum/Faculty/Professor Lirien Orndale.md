@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-lirien-orndale/","created":"2025-05-12T18:46:09.621-07:00","updated":"2025-03-04T18:15:29.000-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-lirien-orndale/","created":"2026-01-11T21:04:56.962-08:00","updated":"2025-03-04T18:15:29.000-08:00"}
 ---
 
 ![Lirien Orndale.webp|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Lirien%20Orndale.webp)

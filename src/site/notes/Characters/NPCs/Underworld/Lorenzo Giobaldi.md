@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/underworld/lorenzo-giobaldi/","created":"2025-05-12T18:46:47.273-07:00","updated":"2025-01-27T19:48:47.000-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/underworld/lorenzo-giobaldi/","created":"2026-01-11T21:05:08.092-08:00","updated":"2025-01-27T19:48:47.000-08:00"}
 ---
 
 

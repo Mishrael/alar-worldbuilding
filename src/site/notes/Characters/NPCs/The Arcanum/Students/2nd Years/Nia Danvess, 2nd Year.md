@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/students/2nd-years/nia-danvess-2nd-year/","created":"2025-05-12T18:45:58.114-07:00","updated":"2025-02-28T21:13:42.000-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/students/2nd-years/nia-danvess-2nd-year/","created":"2026-01-11T21:04:54.345-08:00","updated":"2025-02-28T21:13:42.000-08:00"}
 ---
 
 

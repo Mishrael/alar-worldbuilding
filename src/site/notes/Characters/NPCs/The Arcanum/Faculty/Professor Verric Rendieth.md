@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-verric-rendieth/","created":"2025-05-12T18:45:58.122-07:00","updated":"2025-03-04T18:26:16.000-08:00"}
+{"dg-publish":true,"permalink":"/characters/np-cs/the-arcanum/faculty/professor-verric-rendieth/","created":"2026-01-11T21:04:54.347-08:00","updated":"2025-03-04T18:26:16.000-08:00"}
 ---
 
 ![Verric Rendieth.png|right|300](/img/user/zz.%20Behind%20the%20Scenes/Pictures/Verric%20Rendieth.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities/laraan-pantheon/avanthal-the-platinum-dragon/","created":"2025-05-12T18:45:31.133-07:00","updated":"2025-02-14T20:53:41.000-08:00"}
+{"dg-publish":true,"permalink":"/deities/laraan-pantheon/avanthal-the-platinum-dragon/","created":"2026-01-11T21:04:48.598-08:00","updated":"2025-02-14T20:53:41.000-08:00"}
 ---
 
 

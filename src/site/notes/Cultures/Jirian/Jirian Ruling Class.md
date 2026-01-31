@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cultures/jirian/jirian-ruling-class/","created":"2025-05-12T18:46:47.043-07:00","updated":"2024-10-25T22:09:17.000-07:00"}
+{"dg-publish":true,"permalink":"/cultures/jirian/jirian-ruling-class/","created":"2026-01-11T21:05:08.012-08:00","updated":"2024-10-25T22:09:17.000-07:00"}
 ---
 
 ## Khazimiri
