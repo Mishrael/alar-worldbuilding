@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/societies/anbaerenin/anbaerin-brief/","created":"2026-01-11T21:05:48.887-08:00","updated":"2025-04-26T09:20:13.000-07:00"}
+---
+
+
+Anbaerin is a City State on the south eastern edge of the United Kingdoms of Lar. Anbaerin is the single largest settlement in all of the world of Alar with evidence to suggest that it was built long before the Age of Subjugation. It is also considered the birthplace of magic, since it's within Anbaerin that the first mages found their spark of magic and successfully cast the first spells. Anbaerin is a mecca of technology, magic, and trade.
+
+The city has long been ruled by the Anbaer family, currently ruled by Lord Eldric Anbaer II, and is one of the oldest families in the world, able to trace their family to men and women that seem to have come before the Age of Subjugation, but with the darkening there are gaps in the known lineage and can only make this assertion base on context clues from legal documents.
+
+Anbaerin is split into 9 tiers. Three tiers rest above ground in concentric circles, rising to a peak, so that the 1st tier sit above the second, and the second sits above the third. However, each subsequent tier (4-9) has the same diameter of the 3rd tier.  The max diameter of the city is 25km. Tiers 4 through 9 are below ground. The Caravan Road takes the majority of foot traffic from one tier to the next. Though, due to the city's substantial size, the original architects built in a substantial amount of automated transportation, which the current city workers struggle to understand and maintain. There are 4 lifts that rise and fall through each tier, each platform about 100m in diameter, made of solid stone, and each decorated immaculately with vibrant colors, with skill that far outstrips what most masons or artists can do. Each tier also has a simulated night/day cycle and simulated weather. The mages of the Arcanum (the school of magic that was established in Anbaerin, and the oldest school of magic that exists) are still studying how magic on such a scale can be so stable and consistent, and they don't even know where the source of the city's magic is.
+
+The various municipal departments are headquartered in the Second Tier, commonly referred to as Hightown. Hightown serves as the central hub for accessible government bodies such as the parliament and the House of Governors. One governor oversees both tiers 2 and 3, while tiers 4-9 have their own individual governors. The First Tier is under the direct rule of Lord Eldric Anbaer II, the City's Lord. Essentially the monarch of the city, Lord Anbaer holds authority over all the governors, as well as the Concordia. His decisions are final.
+
+Beneath a governor, there may be Aldermen who act on the governor's behalf, overseeing smaller sections of their respective tier. Governors can also opt to rule over their tier independently. Aldermen are chosen from districts that have been granted one by the governor. They are elected through a majority vote by the residents of the district in question. Voters must show proof of residence.
+
+Rule of law is fairly uniform throughout the city, but some Governors may have looser or stricter interpretations of the law.

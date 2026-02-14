@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/societies/vassari/","created":"2026-01-11T21:04:48.638-08:00","updated":"2026-02-13T00:27:18.351-08:00"}
+---
+
+Vassari, hail from Vassarin, or more commonly known as the Searing Plains. They are a nomadic and tribal people that worships Sylvaril, the Hunter. Vassari are hardy and athletic, but feel as though the Clouding hit them the hardest, as many lost all memory tied their Hunts. Vassari Hunts are gifts divine rites of passage for adolescent youths, often giving purpose to the youths' for the rest of their lives. Some are far more perilous than others, but all hunts are challenging and death is not uncommon. Hunts can vary, as we've observed, from traditional hunts to fell a beast of some sort to making a thing, to solving a riddle. And some hunts find their hunters, like a beast that destroys a whole village leaving you as the sole survivor, or something like that. Regardless, the Hunt is perhaps the most pivotal hallmark in a Vassari's life since it differentiates the youth from the adults. 
